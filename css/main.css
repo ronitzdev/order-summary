@@ -82,7 +82,7 @@ body {
 
 .content__paragraph {
     color: var(--desaturated_blue);
-    margin: 0 20px;
+    margin: 0 50px;
 }
 
 
@@ -98,13 +98,14 @@ body {
 
 .plan__info {
     display: flex;
-    gap: 10px;
+    gap: 20px;
 }
 
 .plan__dates {
     display: flex;
     flex-direction: column;
     text-align: left;
+    justify-content: center;
 }
 
 .info__year {
