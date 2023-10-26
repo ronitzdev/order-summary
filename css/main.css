@@ -18,7 +18,6 @@
 
 html {
     font-size: 62.5%;
-    background-color: red;
     height: 100%;
 }
 
@@ -127,6 +126,7 @@ body {
 
 .plan__change:hover {
     color: var(--bright_blue);
+    text-decoration: none;
 }
 
 .content__cta1 {
