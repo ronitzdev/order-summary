@@ -46,6 +46,8 @@ Users should be able to:
 
 ### What I learned
 
+I have learned to use more element states and layout.
+
 ### Continued development
 
 I am using more accessibility in images, using the figure tag as a container for the img tag and its alt attribute. This allows blind people to easily recognize what the image is about with the help of technology. We get more users by making a major modification in our html structure.
