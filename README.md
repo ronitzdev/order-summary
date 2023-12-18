@@ -55,4 +55,4 @@ I am using more accessibility in images, using the figure tag as a container for
 ## Author
 
 - Website GitHub - [ronitzdev](https://github.com/ronitzdev)
-- Frontend Mentor - [@ronitzdev](https://www.frontendmentor.io/profile/RoniGerman)
+- Frontend Mentor - [@ronitzdev](https://www.frontendmentor.io/profile/ronitzdev)
